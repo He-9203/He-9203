@@ -1,4 +1,4 @@
-- Hi, people. Nice to meet u.
+ Hi, people. Nice to meet u.
 
 - I’m Hellen Machado, from Brazil.
 - My focus is working with Front-End development.
